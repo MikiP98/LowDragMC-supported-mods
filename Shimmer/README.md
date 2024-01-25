@@ -15,9 +15,20 @@
 ## Mods with compatibylity added by [ShimmerSupportLayer](https://modrinth.com/mod/???) 
 *(needs to be installed alongside shimmer and other mods)*
 
+### As of version 0.9.0 of SSL, support for all mods can be automaticly generated!
+### Support added by SSL is now divided into 3 categories:
+- Hand-made 
+<sup>(Every color has been hand-picked and tweaked to look as good as possible, every item and block has beed added, or some may have been removed)</sup>
+- Semi-auto <sup>(Mods that have support generated automatically, but with some manual changes)</sup>
+- automatic <sup>(Automatic basic support for most of the block and some items)</sup>
+
+### Currently there is none hand-made support for anything :(
+
+### List of mods with SemiAutomatic support:
+
 | Name | Description | Platforms | Links | Authors |
 | --- | :---: | :---: | :---: | :---: |
-| [Vanilla Minecraft](https://www.minecraft.net) | The game we all love ;)<br/>*(Some support is included in Shimmer, but not full)* | All | [web](https://www.minecraft.net) | Mojang |
+| [Vanilla Minecraft](https://www.minecraft.net) | The game we all love ;)</br>*(Some support is included in Shimmer, but not full)* | All | [web](https://www.minecraft.net) | Mojang |
 | [Another Furniture](https://modrinth.com/mod/another-furniture) | Vanilla-styled furniture mod. | Fabric, Forge | [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/another-furniture) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/starfish-studios/AnotherFurniture) | crispytwig, Synthestra |
-| [BetterEnd](https://modrinth.com/mod/betterend) | End overhaul<br/>*(Though technically with native support, it does not work)*<br/>*(Be carefull! Performance intensive!)* | Fabric | [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/betterend) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/quiqueck/BetterEnd) | quiqueck |
+| [BetterEnd](https://modrinth.com/mod/betterend) | End overhaul</br>*(Though technically with native support, it does not work)*</br>*(Be carefull! Performance intensive!)* | Fabric | [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/betterend) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/quiqueck/BetterEnd) | quiqueck |
 | [BetterNether](https://modrinth.com/mod/betternether) | Nether update 2.0 | Fabric | [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/betternether) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/quiqueck/BetterNether) | quiqueck |
